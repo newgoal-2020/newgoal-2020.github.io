@@ -34,8 +34,7 @@ nav_order: 3
  - GIT을 GUI로 사용자가 더 쉽게 사용할 수 있도록 하는 Atlassian에서 개발한 프로그램
  - 개인/기업 모두 무료
  - 다운로드 링크([https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/))
-
-![]({% link assets/images/2020-04-09/03-sourcetree-01.png %}){: style="width:500px;"}
+  ![]({% link assets/images/2020-04-09/03-sourcetree-01.png %}){: style="width:500px;"}
 
 
 ---
@@ -47,10 +46,12 @@ nav_order: 3
 ---
 
 ## 원격저장소 복제하기 (Clone)
- 1. Clone 명령어를 통해 Remote Repository 가져오기
-  - 명령어
- 2. 소스트리를 활용하여 Remote Repository 가져오기
-  - 캡쳐본?
+1. Clone 명령어를 통해 Remote Repository 가져오기
+  ```bash
+    $ git clone https://github.com/mobiliansweb/mobiliansweb.github.io.git
+  ```
+2. 소스트리를 활용하여 Remote Repository 가져오기
+  ![]({% link assets/images/2020-04-09/03-sourcetree-02.png %}){: style="width:500px; border:1px solid rgb(0,0,0);"}
 
 ---
 
