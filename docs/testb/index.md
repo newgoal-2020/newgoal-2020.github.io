@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'testb'
-nav_order: 5
+nav_order: 2
 has_children: true
 permalink: /docs/testb
 ---

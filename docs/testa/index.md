@@ -1,12 +1,12 @@
 ---
 layout: default
 title: 'testa'
-nav_order: 5
+nav_order: 1
 has_children: true
 permalink: /docs/testa
 ---
 
-# test
+# testa
 
 테스트합니다. \\
 테스트합니다.테스트합니다. \\

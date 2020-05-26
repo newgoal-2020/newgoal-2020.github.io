@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'test1'
+title: 'testb1'
 parent: 'testb'
 nav_order: 1
 #nav_exclude: true
