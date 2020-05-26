@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'test2'
+title: 'testa2'
 parent: 'testa'
 nav_order: 2
 #nav_exclude: true
@@ -193,7 +193,7 @@ nav_order: 2
 
 ---
 
-[01. Git & Github 기본설명]({{ site.baseurl }}{% link docs/2020-04-09/01-git-github.md %}#typography){: .btn .btn-outline }
-[03. 로컬저장소 환경설정]({{ site.baseurl }}{% link docs/2020-04-09/03-local-repository.md %}#typography){: .btn .btn-outline }
+[01. Git & Github 기본설명]({{ site.baseurl }}{% link docs/testa/testa1.md %}#typography){: .btn .btn-outline }
+[03. 로컬저장소 환경설정]({{ site.baseurl }}{% link docs/testa/testa1.md %}#typography){: .btn .btn-outline }
 
 ---

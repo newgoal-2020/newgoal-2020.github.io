@@ -193,7 +193,7 @@ nav_order: 2
 
 ---
 
-[01. Git & Github 기본설명]({{ site.baseurl }}{% link docs/2020-04-09/01-git-github.md %}#typography){: .btn .btn-outline }
-[03. 로컬저장소 환경설정]({{ site.baseurl }}{% link docs/2020-04-09/03-local-repository.md %}#typography){: .btn .btn-outline }
+[01. Git & Github 기본설명]({{ site.baseurl }}{% link docs/testb/testb1.md %}#typography){: .btn .btn-outline }
+[03. 로컬저장소 환경설정]({{ site.baseurl }}{% link docs/testb/testb1.md %}#typography){: .btn .btn-outline }
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'test1'
+title: 'testa1'
 parent: 'testa'
 nav_order: 1
 #nav_exclude: true
@@ -83,6 +83,6 @@ nav_order: 1
 
 ---
 
-[02. Git 개념 및 명령어]({{ site.baseurl }}{% link docs/2020-04-09/02-git-basic-grammar.md %}#typography){: .btn .btn-outline }
+[02. Git 개념 및 명령어]({{ site.baseurl }}{% link docs/testa/testa2.md %}#typography){: .btn .btn-outline }
 
 ---
