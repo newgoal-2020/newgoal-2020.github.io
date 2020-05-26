@@ -1,7 +1,7 @@
 ---
 layout: default
-title: '01. Git & Github 기본설명'
-parent: '[2020.04.09] git & github'
+title: 'test1'
+parent: 'testa'
 nav_order: 1
 #nav_exclude: true
 ---

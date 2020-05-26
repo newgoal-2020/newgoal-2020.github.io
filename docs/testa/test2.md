@@ -1,7 +1,7 @@
 ---
 layout: default
-title: '02. Git 개념 및 명령어'
-parent: '[2020.04.09] git & github'
+title: 'test2'
+parent: 'testa'
 nav_order: 2
 #nav_exclude: true
 ---

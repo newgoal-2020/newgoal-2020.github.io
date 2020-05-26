@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 'test'
+title: 'testa'
 nav_order: 5
 has_children: true
-permalink: /docs/test
+permalink: /docs/testa
 ---
 
 # test

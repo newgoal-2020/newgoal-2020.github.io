@@ -2,9 +2,9 @@
   "name": "just-the-docs",
   "version": "0.2.7",
   "description": "A modern Jekyll theme for documentation",
-  "repository": "mobiliansweb/mobiliansweb.github.io",
+  "repository": "newgoal-2020/newgoal-2020.github.io",
   "license": "MIT",
-  "bugs": "https://github.com/mobiliansweb/mobiliansweb.github.io/issues",
+  "bugs": "https://github.com/newgoal-2020/newgoal-2020.github.io/issues",
   "devDependencies": {
     "stylelint": "^10.0.1",
     "stylelint-config-primer": "^8.0.0",
