@@ -12,4 +12,4 @@ permalink: /
 {: .no_toc .text-delta }
 
 - [[2020.04.09] git & github]({{ site.baseurl }}{% link docs/2020-04-09/index.md %})
-- [Sample Page]({{ site.baseurl }}{% link docs/sample/index.md %})
+- [test Page]({{ site.baseurl }}{% link docs/test/index.md %})
